@@ -1,1 +1,7 @@
-This project provides counter for notifications received.
+This project provides a counter for notifications received from the select option.
+
+
+
+Based on the items selected the widget updates respective notification.
+
+
